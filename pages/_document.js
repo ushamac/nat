@@ -27,7 +27,7 @@ class MyDocument extends Document {
           <meta name="description" content="" />
           <meta http-equiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-          <title>Leadership Training in India | Leadership Training Programs - Blanchard</title>
+          <title>Natraj Pen Pencil</title>
           <meta name="description" content="p training by the experts help in the development of the individuals." />
           <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
